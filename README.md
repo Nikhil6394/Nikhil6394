@@ -19,10 +19,17 @@
 
 ---
 
-## 📌 My Projects
+## 🚀 Featured Projects
 
-🔹 AI Finance Control  
-🔹 More projects coming soon 🚀
+### 💰 AI Finance Controller
+An AI-based project focused on financial analysis and control.
+
+🔗 [View Project](https://github.com/Nikhil6394/ai-finance-controller)
+
+### 🛡️ MuleEngine-Pro
+An AI-powered project focused on detecting suspicious money-mule transaction patterns.
+
+🔗 [View Project](https://github.com/Nikhil6394/MuleEngine-Pro)
 
 ---
 
